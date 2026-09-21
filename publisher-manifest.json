@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "72d3f32d98f0991a4a7fb87c",
+  "owner": "amjgaa",
+  "repo": "page-2e7bd3913bc747f54697a77e",
+  "title": "INSNOW",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2e7bd3913bc747f54697a77e",
+      "a": "INSNOW",
+      "b": "机场官网线路发布页",
+      "entity": "INSNOW",
+      "brand": "INSNOW",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "14e96a6970cd8f50bf3526ab4af4c3202ec543296191d7659ff44a45bfe5e167",
+      "content": {
+        "primary_entity": "INSNOW",
+        "keyword1": "INSNOW",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，并按客户端文档导入订阅链接。",
+          "AI_CLIENTS_TITLE": "选择适配的客户端",
+          "AI_CLOSING_TEXT": "按设备需求选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 INSNOW",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月流量从100GB到1000GB，支持3至20台设备同时在线，旗舰版与团队版覆盖流媒体解锁、游戏加速与专属节点，按年付可节省两个月费用。",
+          "AI_FAQ_ANSWER_1": "基础版适合1至3台设备日常浏览，旗舰版适合5台设备并需要流媒体与游戏加速，团队版面向20台设备的高流量环境。",
+          "AI_FAQ_ANSWER_2": "同一账号在套餐规定的设备数量内可同时连接，超出数量会导致新设备无法登录，可升级套餐解决。",
+          "AI_FAQ_ANSWER_3": "优先在客户端文档中找到订阅导入入口，粘贴订阅链接后更新节点列表，再选择延迟较低的节点连接。",
+          "AI_FAQ_ANSWER_4": "月付与年付均支持，年付价格约为十个月费用，适合长期使用的用户，升级套餐后剩余时长会按比例折算。",
+          "AI_FAQ_ANSWER_5": "先确认设备数量与月流量需求，再考虑是否需要流媒体解锁或专线加速，最后选择月付或年付周期。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别适合什么设备数量？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "在客户端里如何导入订阅链接？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "选择套餐时应该优先看哪些参数？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度梳理选择思路。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按常用设备数量直接匹配。",
+          "AI_FEATURE_TEXT_2": "月流量从100GB到1000GB，日常浏览选基础版，多设备高清流媒体或游戏选旗舰版或团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付仅需十个月费用，长期使用或团队协作时年付更省预算。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "确认设备与流量需求，再看适配要求，最后按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_HERO_INTRO": "INSNOW 提供多档海外加速订阅，覆盖日常浏览、流媒体与游戏加速场景，按设备数量和流量需求选择基础版、旗舰版或团队版即可。",
+          "AI_HERO_SUBTITLE": "多档订阅匹配设备与流量需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖3至20台设备",
+          "AI_HIGHLIGHT_2": "月流量100GB至1000GB可选",
+          "AI_HIGHLIGHT_3": "年付仅需十个月费用",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，年付分别为¥150、¥350与¥850。",
+          "AI_PLANS_TITLE": "对比套餐与周期",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月流量消耗，确定需要基础版、旗舰版还是团队版。",
+          "AI_STEP_TEXT_2": "查看目标套餐的设备上限、流量额度和节点类型，确认是否满足流媒体或游戏加速要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，更新节点后选择延迟合适的线路连接。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "查看套餐适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "INSNOW 多档订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yxagy.cn",
+    "host": "yxagy.cn"
+  },
+  "file_hashes": {
+    "index.html": "cf3465876d28fcb389e1c5f3f2cffeee3f8264222917272e632af6f1ae29f67b",
+    "sitemap.xml": "5c9e76b88b4a9505a6e2fea47df1f2f7dcd7de63efc1c39c04af7ba4b0265427",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d3e3b76505847ab23ece4664ebf0a954b00525fe5b7a10bc81847faaa4ef0350",
+    "robots.txt": "b8ec3e1c3a906e9d30cbbb7bbbdfa2dd3475b399d65835634937e2e97ba23cb5",
+    "694875d18a3a23cb1f2ac557b15f6d10.txt": "e332dec063adf1ef4957292824aecf5104db2a65df2f327340a601be15c66468"
+  },
+  "revision": "7da67c320b4b373765858c792b49239e974b0459a016c26695687cd857ddf848"
+}
